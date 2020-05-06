@@ -1,3 +1,7 @@
 This is my first file.
 
 Everything from this line and above is in my master.
+
+This change is on my first branch and needs to be merged into my master.
+
+(End of first branch changes.)
